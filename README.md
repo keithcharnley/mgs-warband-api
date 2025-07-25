@@ -1,0 +1,2 @@
+# mgs-warband-api
+manxgamingsolutions
